@@ -43,7 +43,7 @@ def update(self, x):
 **Параметри:** $W_{SMA} = 20$, $A_{EMA} = 0.1$, $W_{MED} = 21$.
 
 ### Графіки результатів:
-![Експеримент 1 — Базовий](screenshot1.png) 
+![Експеримент 1 — Базовий](https://github.com/volandr1/Coordinate_Filtering_Research_lab/blob/main/Screen/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png) 
 *(Замени "screenshot1.png" на реальное имя своего файла)*
 
 ### Аналіз результатів:
@@ -55,7 +55,7 @@ def update(self, x):
 **Параметри:** $W_{SMA} = 100$, $A_{EMA} = 0.02$.
 
 ### Графіки результатів:
-![Експеримент 2 — Екстремальне згладжування](screenshot2.png)
+![Експеримент 2 — Екстремальне згладжування](https://github.com/volandr1/Coordinate_Filtering_Research_lab/blob/main/Screen/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
 *(Замініть "screenshot2.png" на назву вашого файлу з графіками для цього експерименту)*
 
 ### Аналіз парадоксу спектру помилки: 
